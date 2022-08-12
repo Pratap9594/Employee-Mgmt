@@ -9,12 +9,13 @@
       "DOB":"14-03-1991" 
     },
     {
-      "Firstname": "huzefa",
-      "Lastname": "b",
-      "State": "Maharashtra",
-      "DOB": "2022-07-12T18:30:00.000Z",
-      "Gender": "Female",
-      "id": 5
+     
+      "Firstname": "Rahul",
+      "Lastname": "Dev",
+      "Email":"rahul@gmail.com",
+      "Phone": "8923193993",
+      "Company": "Infosys",
+      "DOB":"09-07-1990" 
     }
   ],
   "comments": [
