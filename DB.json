@@ -1,0 +1,32 @@
+{
+  "StudentList": [
+    {
+      "Firstname": "Akhil",
+      "Lastname": "Kumar",
+      "Email":"akhil@gmail.com",
+      "Phone": "9959479459",
+      "Company": "BuzzBoard",
+      "DOB":"14-03-1991" 
+    },
+    {
+      "Firstname": "huzefa",
+      "Lastname": "b",
+      "State": "Maharashtra",
+      "DOB": "2022-07-12T18:30:00.000Z",
+      "Gender": "Female",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+
+    
+  }
+}
